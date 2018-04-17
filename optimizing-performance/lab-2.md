@@ -5,8 +5,6 @@
 ## Scenario
 We're going to analyze our app bundles to determine if there are dependencies that are taking up more space in our production bundles than the should. To do so, we're going to use a tool called `Source Map Explorer` to analyze our bundle source maps.
 
-
-
 ## Instructions
 1. If you don't already have `source-map-explorer` installed, please install it now: `npm install -g source-map-explorer`
 1. Let's create a new npm script to build our customer-portal application in prod mode with source-maps. This script will pass the --sourcemaps flag to Angular CLI so that our bundles will be generated with corresponding sourcemaps. Open `package.json` and add the following script to the `scripts` object: `"customer-portal:source-maps": "ng build --prod -a=customer-portal --sourcemaps"`
