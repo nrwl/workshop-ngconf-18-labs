@@ -46,6 +46,9 @@ apps/customer-portal/ngsw.json:
 }
 ```
 
+# Lab: Service Worker
+
+## Time: 36 hours
 
 Make new npm script: 
 
@@ -68,3 +71,18 @@ Steps:
 *  Refresh page (Page should still load). Look at Network tab to see that all items were loaded from Service Worker.
 *  Run lighthouse again and compare the scores. 
    >  Note: Lighthouse in Chrome devtools may not honor service worker cache, but the Chrome extension will.
+   
+   
+
+
+
+```console
+npm run customer-portal:source-maps
+```
+
+Figure out path to file:
+
+`./node_modules/.bin/source-map-explorer whatever.js`
+
+## Next Lab
+Go to Optimizing Performance Lab #2: [Universal](lab-4.md)
