@@ -1,6 +1,8 @@
 # Lab: Service Workers
 
-## Time: 36 hours
+
+## Scenario
+>  Time: 36 hours
 
 Enable service worker in your application.
 
