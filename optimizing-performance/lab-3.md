@@ -85,4 +85,4 @@ Figure out path to file:
 `./node_modules/.bin/source-map-explorer whatever.js`
 
 ## Next Lab
-Go to Optimizing Performance Lab #2: [Universal](lab-4.md)
+Go to Optimizing Performance Lab #4: [Universal](lab-4.md)
