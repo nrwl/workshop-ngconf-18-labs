@@ -12,7 +12,7 @@ With the application running, we'll use Lighthouse to analyze the performance of
 1. In a new terminal window, start the customer portal in production mode by running `npm run customer-portal:prod`.
 1. Open Google Chrome and navigate to localhost:4203.
 1. Open Chrome Devtools:
-   1. Mac: `Cmd + Opt + I`
+   1. Mac: `Cmd + Opt + I`
    1. Windows: `F12`
 1. Click the "Audits" tab then click the "Perform an Audit" button.
 1. In the audit modal, uncheck all audits except "Performance".
