@@ -11,7 +11,7 @@
 1. [Lighthouse Analysis](optimizing-performance/lab-1.md)
 1. [Source Map Explorer](optimizing-performance/lab-2.md)
 1. [Service Workers](optimizing-performance/lab-3.md)
-1. [Angular Universal](organizing-code-in-a-workspace/lab-4.md)
+1. [Angular Universal](optimizing-performance/lab-4.md)
 
 ----
 
