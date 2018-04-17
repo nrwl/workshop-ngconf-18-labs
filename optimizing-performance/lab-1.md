@@ -9,6 +9,7 @@ With the application running, we'll use Lighthouse to analyze the performance of
 
 ## Instructions
 1. Start the server by running `npm run server`.
+1. Let's create a new npm script to serve the application in prod mode. Open `package.json` and add the following to the `scripts` object: `"customer-portal:prod": "ng serve --prod --proxy-config=proxy.config.json -a=customer-portal -p=4203"`
 1. In a new terminal window, start the customer portal in production mode by running `npm run customer-portal:prod`.
 1. Open Google Chrome and navigate to localhost:4203.
 1. Open Chrome Devtools:
