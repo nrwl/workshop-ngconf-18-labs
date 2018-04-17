@@ -22,4 +22,4 @@ Try out building the apps in the project and investigate the build artifacts as 
 1. Test out the npm script `format` by making some formatting changes to an app or lib file and then running the script.
 
 ## Next Lab
-Go to Optimizing Performance Lab #5
+Go to Optimizing Performance Lab #1: [Lighthouse Analysis](/optimizing-performance/lab-1.md)
