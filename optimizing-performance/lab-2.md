@@ -1,7 +1,10 @@
 # Lab: Sourcemap Explorer
 
-## Time: 10 minutes
+## Scenario
 
+>  Time: 10 minutes
+
+Let's explore the bundled source.
 
 ```console
 npm run customer-portal:source-maps
