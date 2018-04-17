@@ -1,8 +1,8 @@
 # Lab: Lighthouse Analysis
 
-## Time: 5 minutes
-
 ## Scenario
+>  Time: 5 minutes
+
 We're going to start our application in Angular CLI's "production" mode to make our application as lightweight and fast as possible for performance analysis.
 
 With the application running, we'll use Lighthouse to analyze the performance of the application. The Lighthouse tool is built into Google Chrome's developer tools.
